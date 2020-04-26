@@ -1,2 +1,2 @@
-# Moravec291678.github.io
-Muj první web :)
+# moravec.github.io
+Můj první web :)
