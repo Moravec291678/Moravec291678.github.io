@@ -1,2 +1,2 @@
-# David Moravec.github.io
+# David Moravec
 Moje domaci ukoly
