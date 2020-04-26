@@ -1,2 +1,2 @@
-# Moravec291678.github.io
-Můj první web :)
+# David Moravec.github.io
+Moje domaci ukoly
